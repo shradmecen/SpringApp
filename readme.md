@@ -2,7 +2,7 @@ Podsumowanie:
 - Projekt jest podstawową aplikacja Spring Boot, która demonstruje prostą aplikację internetową z kontrolerem oraz szablonem HTML opartym na Thymeleaf. Została zaprojektowana jako wprowadzenie do tworzenia dynamicznych stron internetowych przy użyciu Spring Boot i Thymeleaf.
 
 Funkcjonalności:
- 1. Strona wyświetla wiadomość powitalną przy użyciu głównego adresu URL http://localhost:8080/greeting
+ 1. Strona wyświetla wiadomość powitalną przy użyciu głównego adresu URL http://localhost:8080/
  2. Strona z dynamicznym powitaniem: Umożliwia personalizowane powitanie przy użyciu parametrów zapytania (/greeting?name=TwojeImię).
 
 Opis działania:
